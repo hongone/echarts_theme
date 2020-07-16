@@ -20,6 +20,7 @@
 /*
 *author: Henry Liu
 *create time: 2020-07-16
+*github: https://github.com/hongone/echarts_theme
 */
 import echarts from 'echarts/lib/echarts'
 (function(root, factory) {
